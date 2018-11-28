@@ -1,0 +1,1 @@
+function dy2 = fY2(t, X, Y, Z)      global n    global By    global Bx    global o    global u    global d    global q    global w1    global w2    global w3    global e1     global e2    global e3    global r    global T1    global T2    global T3    global u1    global u2    global u3  dy2 = Bx*(X(2)/sum(X))*Y(1) - (d+u2)*Y(2);endfunction
